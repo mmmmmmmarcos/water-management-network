@@ -1,2 +1,2 @@
 # water-management-network
-p1 sd
+grupo formado por Marcos Mas Muñoz y Álvaro Hurtado Zaplana
